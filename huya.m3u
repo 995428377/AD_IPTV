@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1036/b5/b78a4ea099555a2a4e27623476402b_180_135.jpg?1502266299" group-title="英雄联盟",金灿毅
+http://192.168.2.16:4444/huya/776556
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/8b/b1a406dd163efa3a547bf752c3a756_180_135.jpg?1585911909" group-title="英雄联盟",霸哥
+http://192.168.2.16:4444/huya/189201
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/e4/837d557cdf07c6adf85a62540ce53d_180_135.jpg?1578575876" group-title="英雄联盟",小超梦
+http://192.168.2.16:4444/huya/257085
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1008/b7/36b005e3ab0cac6636b54a550bb601_180_135.jpg?1585823993" group-title="英雄联盟",骚男
+http://192.168.2.16:4444/huya/520520
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/bd/8c8dc2071fca5f917cc84372eed4cb_180_135.jpg?1585727771" group-title="英雄联盟",神超
+http://192.168.2.16:4444/huya/102411
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/ca/90851901d25b3cfef1a9a61053d32e_180_135.jpg?1663672658" group-title="英雄联盟",誓约
+http://192.168.2.16:4444/huya/189202
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/39/a592f7247d896a1364721d632f5a1a_180_135.jpg" group-title="英雄联盟",涛哥剑圣
+http://192.168.2.16:4444/huya/552332
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="英雄联盟",Zz1tai姿态
+http://192.168.2.16:4444/huya/333003
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/3f/1e2f572c5b68cb9d407d09bd679346_180_135.jpg?1659785247" group-title="英雄联盟",浪子彦
+http://192.168.2.16:4444/huya/861016
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/50/0627739a105375f942be5fbfcb4e64_180_135.jpg?1658190347" group-title="英雄联盟",浪D
+http://192.168.2.16:4444/huya/196645
