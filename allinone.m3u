@@ -35,3 +35,5 @@ http://192.168.2.16:4444/huya/333003
 http://192.168.2.16:4444/huya/861016
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/50/0627739a105375f942be5fbfcb4e64_180_135.jpg?1658190347" group-title="英雄联盟",浪D
 http://192.168.2.16:4444/huya/196645
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_81a6e2f4bf5749659881d1333e9800d0.jpeg?from=3067671334" group-title="骑行",徐云
+http://192.168.2.16:4444/douyin/12727574998
